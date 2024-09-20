@@ -1,1 +1,0 @@
-# django_electronic_store
